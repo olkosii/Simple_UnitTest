@@ -258,11 +258,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programming\\коди\\практика\\UnitTest\\UnitTest_Practise\\UnitTest_Practise.csproj",
+      "projectUniqueName": "C:\\Users\\Alexandr\\Dictionaries\\SimpleUnit\\Simple_UnitTest\\UnitTest\\UnitTest_Practise\\UnitTest_Practise.csproj",
       "projectName": "UnitTest_Practise",
-      "projectPath": "C:\\Programming\\коди\\практика\\UnitTest\\UnitTest_Practise\\UnitTest_Practise.csproj",
+      "projectPath": "C:\\Users\\Alexandr\\Dictionaries\\SimpleUnit\\Simple_UnitTest\\UnitTest\\UnitTest_Practise\\UnitTest_Practise.csproj",
       "packagesPath": "C:\\Users\\Alexandr\\.nuget\\packages\\",
-      "outputPath": "C:\\Programming\\коди\\практика\\UnitTest\\UnitTest_Practise\\obj\\",
+      "outputPath": "C:\\Users\\Alexandr\\Dictionaries\\SimpleUnit\\Simple_UnitTest\\UnitTest\\UnitTest_Practise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4lkXOayhz5qO8GJ2u86ZXEeY4zss0oL1psia4wNcCt2SbxNF32688I5rbSil/a05myFH3/ib74Gv8LjZiNnayg==",
+  "dgSpecHash": "Z7ZLCsz+lzyI5oXJXikkV98lop4TjbTfEwEiufdT2T/+RjI4poVYUSeggfGqZRHa4e+mJIxhR9NBrb5UER4Zow==",
   "success": true,
-  "projectFilePath": "C:\\Programming\\коди\\практика\\UnitTest\\UnitTest_Practise\\UnitTest_Practise.csproj",
+  "projectFilePath": "C:\\Users\\Alexandr\\Dictionaries\\SimpleUnit\\Simple_UnitTest\\UnitTest\\UnitTest_Practise\\UnitTest_Practise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexandr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Alexandr\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
